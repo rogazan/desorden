@@ -1,5 +1,5 @@
 # Listas con grado de desorden controlado
-Genera distintos grados de desorden en una lista inicialmente ordenada. Se propone una clase “desorden” que se instancia con el número de elementos que se necesitan en la lista. La instancia dispone de una lista inicialmente ordenada de enteros en el atributo “.datos” de la instancia, al que se le pueden aplicar transformaciones sucesivas conl os métodos descritos a continuación
+Genera distintos grados de desorden en una lista inicialmente ordenada. Se propone una clase “desorden” que se instancia con el número de elementos que se necesitan en la lista. La instancia dispone de una lista inicialmente ordenada de enteros en el atributo “.datos” de la instancia, al que se le pueden aplicar transformaciones sucesivas con los métodos descritos a continuación
 
 
 # Generar instancia de la clase "desorden"
